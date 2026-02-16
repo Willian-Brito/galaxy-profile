@@ -61,12 +61,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
+  - repo: "willian-brito/articly"
+    arm: 0
+    description: "O Articly é um SaaS para gestão de artigos, desenvolvido para facilitar a criação, organização e acompanhamento de conteúdos de forma intuitiva e escalável."
   - repo: "willian-brito/nerd-store-enterprise"
     arm: 1
     description: "Projeto voltado a estudo e práticas de padrões de arquitetura de microsserviços."
-  - repo: "willian-brito/articly"
-    arm: 1
-    description: "O Articly é um SaaS para gestão de artigos, desenvolvido para facilitar a criação, organização e acompanhamento de conteúdos de forma intuitiva e escalável."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
